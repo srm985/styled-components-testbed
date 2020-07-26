@@ -1,0 +1,7 @@
+/node_modules/
+dist/
+www/
+.idea/
+.vscode/
+.env
+storybook-dist/
